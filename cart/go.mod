@@ -1,4 +1,4 @@
-module cart
+module github.com/chenqi0122/XM1/cart
 
 go 1.18
 
