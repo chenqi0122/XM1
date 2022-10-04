@@ -1,8 +1,9 @@
-module cartapi
+module github.com/chenqi0122/XM1/cartapi
 
 go 1.18
 
 require (
+	github.com/chenqi0122/XM1/cart v0.0.0-20221003143317-a4b60635740d
 	github.com/golang/protobuf v1.5.2
 	github.com/micro/go-micro/v2 v2.9.1
 )
