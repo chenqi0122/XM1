@@ -1,10 +1,10 @@
 package main
 
 import (
-	"cart/domain/repository"
-	service2 "cart/domain/service"
-	"cart/handler"
-	cart "cart/proto/cart"
+	"github.com/chenqi0122/XM1/cart/domain/repository"
+	service2 "github.com/chenqi0122/XM1/cart/domain/service"
+	"github.com/chenqi0122/XM1/cart/handler"
+	cart "github.com/chenqi0122/XM1/cart/proto/cart"
 	"github.com/chenqi0122/common"
 	"github.com/jinzhu/gorm"
 	_ "github.com/jinzhu/gorm/dialects/mysql"
